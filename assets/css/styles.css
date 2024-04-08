@@ -66,6 +66,7 @@ a{
   flex-direction: column;
   justify-content: space-between;
   overflow: hidden;
+  margin-bottom: 1rem;
 }
 .nav__brand{
   display: grid;
